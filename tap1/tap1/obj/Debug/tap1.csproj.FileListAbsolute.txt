@@ -1,0 +1,7 @@
+D:\chapter 01\Demo1\tap1\tap1\bin\Debug\tap1.exe.config
+D:\chapter 01\Demo1\tap1\tap1\bin\Debug\tap1.exe
+D:\chapter 01\Demo1\tap1\tap1\bin\Debug\tap1.pdb
+D:\chapter 01\Demo1\tap1\tap1\obj\Debug\tap1.csproj.AssemblyReference.cache
+D:\chapter 01\Demo1\tap1\tap1\obj\Debug\tap1.csproj.CoreCompileInputs.cache
+D:\chapter 01\Demo1\tap1\tap1\obj\Debug\tap1.exe
+D:\chapter 01\Demo1\tap1\tap1\obj\Debug\tap1.pdb
